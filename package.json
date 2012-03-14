@@ -1,0 +1,12 @@
+{
+  	"name": "dnsdict",
+  	"description": "DNS English to Estonian service",
+  	"version": "0.1.0",
+  	"author" : "Andris Reinman",
+  	"scripts":{
+  		"start": "node server.js"
+  	},
+    "dependencies": {
+        "ndns": "https://github.com/andris9/ndns/tarball/master"
+    }
+}

@@ -7,6 +7,7 @@
   		"start": "node server.js"
   	},
     "dependencies": {
-        "ndns": "https://github.com/andris9/ndns/tarball/master"
+        "ndns": "https://github.com/andris9/ndns/tarball/master",
+        "iconv": "*"
     }
 }

@@ -1,5 +1,7 @@
 ## Install
 
+DNS Server that translates requests from english to estonian (mountain -> mägi)
+
     npm install dnsdict
     
 ### Run

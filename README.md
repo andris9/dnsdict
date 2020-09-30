@@ -1,3 +1,7 @@
+## Remember
+
+In latest version of Kali Linux, You've to install it manually. you can not fount dnsdict linux distro.
+
 ## Install
 
 DNS Server that translates requests from english to estonian (mountain -> mägi)
